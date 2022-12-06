@@ -14,7 +14,7 @@ Add to your android/build.gradle:
 allprojects {
     repositories {
         /* other repos */
-        maven { url 'https://github.com/siarl/opentok-android-mirror/raw/main'}
+        maven { url 'https://github.com/Siarl/opentok-android-mirror/raw/main'}
     }
 }
 ```
